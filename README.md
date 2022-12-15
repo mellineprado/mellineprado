@@ -1,10 +1,12 @@
-### Hi, I'm Melline! 👋
+ <h2 align="center">Hi, I'm Melline!👋</h2>
 <hr>
 <h3 align="left">About me:</h3>
 
 - Full-Stack Web Developer graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/)
-- Graduate and specialist in Law
+- Law School graduate
 - I'm currently learning Ruby on Rails
+- I’m interested in learn more about code
+- If you wanna reach me just send me a mail to mellinevprado@hotmail.com
 
 
 <h3 align="left">Skills:</h3>
