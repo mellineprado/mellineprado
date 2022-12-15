@@ -12,5 +12,5 @@
 
 <h3 align="left">My stats:</h3>
 <div style="display: inline_block">
-    <img height="164em" src="https://github-readme-stats.vercel.app/api?username=mellineprado&count_private=true?&bg_color=000000&text_color=FFFF&title_color=778899"></a> 	<img align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellineprado&layout=compact&bg_color=000000&text_color=000000&title_color=778899"></a>
+    <img height="164em" src="https://github-readme-stats.vercel.app/api?username=mellineprado&count_private=true?&bg_color=000000&text_color=FFFF&title_color=778899"></a> 	<img align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellineprado&layout=compact&bg_color=000000&text_color=FFFF&title_color=778899"></a>
 </div>
