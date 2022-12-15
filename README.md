@@ -3,7 +3,7 @@
 
 - Full-Stack Web Developer graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/)
 - Law School graduate
-- I'm currently learning Ruby on Rails
+- I'm currently learning Ruby on Rails and JavaScript
 - I’m interested in learn more about code
 - If you wanna reach me just send me a mail to mellinevprado@hotmail.com
 
