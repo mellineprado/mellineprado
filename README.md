@@ -1,17 +1,31 @@
- <h1 align="center">Hi, I'm Melline!👋</h1>
+ <h1 align="center">Hi, I'm Melline! :)</h1>
+
 <h3 align="left">About me:</h3>
 
 - Full-Stack Web Developer graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/)
+- I'm based in São Paulo, Brazil
 - Law School graduate
 - I'm currently learning Ruby on Rails and JavaScript
 - I’m interested in learn more about code
-- If you wanna reach me just send me a mail to mellinevprado@hotmail.com
-
 
 <h3 align="left">Skills:</h3>
-<p align="left">  <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.shields.io/badge/Ruby-778899?style=for-the-badge&logo=ruby&logoColor=black" alt="ruby" /> </a> <a href="https://rubyonrails.org/" target="_blank"> <img src="https://img.shields.io/badge/Ruby_on_Rails-778899?style=for-the-badge&logo=ruby-on-rails&logoColor=black" alt="rails" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-778899?style=for-the-badge&logo=css3&logoColor=black" alt="css3" /> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://shields.io/badge/git-778899?style=for-the-badge&logo=git&logoColor=black" alt="git" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-778899?style=for-the-badge&logo=html5&logoColor=black" alt="html5" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-778899?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> <a href="https://sass-lang.com" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-778899?style=for-the-badge&logo=postgresql&logoColor=black" alt="postgresql"/> </a>    </p>
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="28" height="28" alt="Ruby" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="28" height="28" alt="JavaScript" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="28" height="28" alt="JQuery" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="28" height="28" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="28" height="28" alt="HTML5" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="28" height="28" alt="Sass" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="28" height="28" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="28" height="28" alt="PostgreSQL" />
+</a>
 
+<br>
+<h3 align="left">Socials:</h3>
+ <a href="https://www.linkedin.com/in/mellineprado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-8B7B8B?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.instagram.com/pradomelline/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-8B7B8B?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+<br>
 <h3 align="left">Stats:</h3>
 <div style="display: inline_block">
-    <img height="164em" src="https://github-readme-stats.vercel.app/api?username=mellineprado&count_private=true?&bg_color=000000&text_color=FFFF&title_color=778899"></a> 	<img align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellineprado&layout=compact&bg_color=000000&text_color=FFFF&title_color=778899"></a>
+    <img height="164em" src="https://github-readme-stats.vercel.app/api?username=mellineprado&count_private=true?&bg_color=FFFFF&text_color=000000&title_color=8B7B8B"></a> 	<img align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellineprado&layout=compact&bg_color=FFFFF&text_color=000000&title_color=8B7B8B"></a>
 </div>
