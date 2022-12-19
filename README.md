@@ -23,11 +23,11 @@
 
 <br>
 <h3 align="left">Socials:</h3>
- <a href="https://www.linkedin.com/in/mellineprado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-8B7B8B?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.instagram.com/pradomelline/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-8B7B8B?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/mellineprado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-7d6261?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.instagram.com/pradomelline/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-7d6261?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <br>
 <h3 align="left">Stats:</h3>
 <div style="display: inline_block">
-   <img height="164em" src="https://github-readme-stats.vercel.app/api?username=mellineprado&count_private=true?&bg_color=FFFFF&text_color=000000F&title_color=8B658B"></a>  	    <img align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellineprado&layout=compact&bg_color=FFFFF&text_color=000000F&title_color=8B658B"></a>
+   <img height="164em" src="https://github-readme-stats.vercel.app/api?username=mellineprado&count_private=true?&bg_color=FFFFF&text_color=000000F&title_color=7d6261"></a>  	    <img align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellineprado&layout=compact&bg_color=FFFFF&text_color=000000F&title_color=7d6261"></a>
 </div>
