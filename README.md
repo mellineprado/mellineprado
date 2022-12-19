@@ -6,7 +6,7 @@
 - I'm based in São Paulo, Brazil
 - Law School graduate
 - I'm currently learning Ruby on Rails and JavaScript
-- I’m interested in learn more about code
+
 
 <h3 align="left">Skills:</h3>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="28" height="28" alt="Ruby" /></a>
@@ -29,5 +29,5 @@
 <br>
 <h3 align="left">Stats:</h3>
 <div style="display: inline_block">
-   <img height="164em" src="https://github-readme-stats.vercel.app/api?username=mellineprado&count_private=true?&bg_color=FFFFF&text_color=000000F&title_color=8B7B8B"></a>  	    <img align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellineprado&layout=compact&bg_color=FFFFF&text_color=000000F&title_color=8B7B8B"></a>
+   <img height="164em" src="https://github-readme-stats.vercel.app/api?username=mellineprado&count_private=true?&bg_color=FFFFF&text_color=000000F&title_color=8B658B"></a>  	    <img align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellineprado&layout=compact&bg_color=FFFFF&text_color=000000F&title_color=8B658B"></a>
 </div>
