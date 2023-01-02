@@ -2,12 +2,15 @@
 
 <h3 align="left">About me:</h3>
 
-<img align="right" src="image.svg" width="290" />
+<div>
+  <img align="right" src="image.svg" width="290" />
+</div>
 
 - Full-Stack Web Developer graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/)
 - I'm based in São Paulo, Brazil
 - Law School graduate
 - I'm currently learning Ruby on Rails and JavaScript
+
 
 
 <h3 align="left">Skills:</h3>
