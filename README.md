@@ -1,6 +1,6 @@
- <h1 align="center">Hi, I'm Melline! (:</h1>
+ <h1 align="center">Hey, I'm Melline! 👋</h1>
 
-<h3 align="left">About me:</h3>
+<h3 align="left">About me:</h3> <img align="right" src="image.svg" width="290" />
 
 - Full-Stack Web Developer graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/)
 - I'm based in São Paulo, Brazil
@@ -23,11 +23,11 @@
 
 <br>
 <h3 align="left">Socials:</h3>
- <a href="https://www.linkedin.com/in/mellineprado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-7d6261?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.instagram.com/pradomelline/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-7d6261?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/mellineprado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-8CAADE?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/pradomelline/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-8CAADE?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <br>
 <h3 align="left">Stats:</h3>
 <div style="display: inline_block">
-   <img height="164em" src="https://github-readme-stats.vercel.app/api?username=mellineprado&count_private=true?&bg_color=FFFFF&text_color=000000F&title_color=7d6261"></a>  	    <img align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellineprado&layout=compact&bg_color=FFFFF&text_color=000000F&title_color=7d6261"></a>
+   <img height="164em" src="https://github-readme-stats.vercel.app/api?username=mellineprado&count_private=true?&bg_color=FFFFF&text_color=000000F&title_color=8CAADE"></a><img align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellineprado&layout=compact&bg_color=FFFFF&text_color=000000F&title_color=8CAADE"></a>
 </div>
