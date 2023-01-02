@@ -1,6 +1,7 @@
  <h1 align="center">Hey, I'm Melline! 👋</h1>
 
-<h3 align="left">About me:</h3> <img align="right" src="image.svg" width="290" />
+<h3 align="left">About me:</h3>
+<img align="right" src="image.svg" width="290" />
 
 - Full-Stack Web Developer graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/)
 - I'm based in São Paulo, Brazil
