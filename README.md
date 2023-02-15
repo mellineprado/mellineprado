@@ -1,7 +1,7 @@
  <h1 align="center">Hey, I'm Melline! 👋</h1>
 
 <h3 align="left">About me:</h3>
-
+- Software Developer at [Northern Ventures](https://www.northern.com.br/)
 - Full-Stack Web Developer graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/)
 - I'm based in São Paulo, Brazil
 - Law School graduate
