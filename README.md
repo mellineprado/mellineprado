@@ -1,4 +1,4 @@
- <h1 align="center">Hey, I'm Melline! 👋</h1>
+<h1 align="center">Hey, I'm Melline! 👋</h1>
 
 <h3 align="left">About me:</h3>
 
@@ -7,8 +7,6 @@
 - I'm based in São Paulo, Brazil
 - Law School graduate
 - I'm currently learning Ruby on Rails and JavaScript
-
-
 
 <h3 align="left">Skills:</h3>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="28" height="28" alt="Ruby" /></a>
@@ -25,8 +23,8 @@
 
 <br>
 <h3 align="left">Socials:</h3>
- <a href="https://www.linkedin.com/in/mellineprado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-BC8F8F?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/pradomelline/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-BC8F8F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/mellineprado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-BC8F8F?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/pradomelline/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-BC8F8F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <br>
 <h3 align="left">Stats:</h3>
