@@ -6,7 +6,6 @@
 - Full-Stack Web Developer graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/)
 - I'm based in São Paulo, Brazil
 - Law School graduate
-- I'm currently learning Ruby on Rails and JavaScript
 
 <h3 align="left">Skills:</h3>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="28" height="28" alt="Ruby" /></a>
