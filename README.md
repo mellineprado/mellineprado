@@ -4,7 +4,6 @@
 
 - Software Developer at [Northern Ventures](https://www.northern.com.br/)
 - Full-Stack Web Developer graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/)
-- I'm based in São Paulo, Brazil
 - Law School graduate
 
 <h3 align="left">Skills:</h3>
